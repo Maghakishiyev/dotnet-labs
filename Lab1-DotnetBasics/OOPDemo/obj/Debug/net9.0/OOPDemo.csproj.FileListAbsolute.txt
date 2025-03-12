@@ -1,0 +1,14 @@
+/Users/movsumaghakishiyev/University/.netProgramming/OOPDemo/bin/Debug/net9.0/OOPDemo
+/Users/movsumaghakishiyev/University/.netProgramming/OOPDemo/bin/Debug/net9.0/OOPDemo.deps.json
+/Users/movsumaghakishiyev/University/.netProgramming/OOPDemo/bin/Debug/net9.0/OOPDemo.runtimeconfig.json
+/Users/movsumaghakishiyev/University/.netProgramming/OOPDemo/bin/Debug/net9.0/OOPDemo.dll
+/Users/movsumaghakishiyev/University/.netProgramming/OOPDemo/bin/Debug/net9.0/OOPDemo.pdb
+/Users/movsumaghakishiyev/University/.netProgramming/OOPDemo/obj/Debug/net9.0/OOPDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/movsumaghakishiyev/University/.netProgramming/OOPDemo/obj/Debug/net9.0/OOPDemo.AssemblyInfoInputs.cache
+/Users/movsumaghakishiyev/University/.netProgramming/OOPDemo/obj/Debug/net9.0/OOPDemo.AssemblyInfo.cs
+/Users/movsumaghakishiyev/University/.netProgramming/OOPDemo/obj/Debug/net9.0/OOPDemo.csproj.CoreCompileInputs.cache
+/Users/movsumaghakishiyev/University/.netProgramming/OOPDemo/obj/Debug/net9.0/OOPDemo.dll
+/Users/movsumaghakishiyev/University/.netProgramming/OOPDemo/obj/Debug/net9.0/refint/OOPDemo.dll
+/Users/movsumaghakishiyev/University/.netProgramming/OOPDemo/obj/Debug/net9.0/OOPDemo.pdb
+/Users/movsumaghakishiyev/University/.netProgramming/OOPDemo/obj/Debug/net9.0/OOPDemo.genruntimeconfig.cache
+/Users/movsumaghakishiyev/University/.netProgramming/OOPDemo/obj/Debug/net9.0/ref/OOPDemo.dll

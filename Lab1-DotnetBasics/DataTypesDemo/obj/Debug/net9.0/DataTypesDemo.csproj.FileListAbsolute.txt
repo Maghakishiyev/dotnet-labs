@@ -1,0 +1,14 @@
+/Users/movsumaghakishiyev/University/.netProgramming/DataTypesDemo/obj/Debug/net9.0/DataTypesDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/movsumaghakishiyev/University/.netProgramming/DataTypesDemo/obj/Debug/net9.0/DataTypesDemo.AssemblyInfoInputs.cache
+/Users/movsumaghakishiyev/University/.netProgramming/DataTypesDemo/obj/Debug/net9.0/DataTypesDemo.AssemblyInfo.cs
+/Users/movsumaghakishiyev/University/.netProgramming/DataTypesDemo/obj/Debug/net9.0/DataTypesDemo.csproj.CoreCompileInputs.cache
+/Users/movsumaghakishiyev/University/.netProgramming/DataTypesDemo/bin/Debug/net9.0/DataTypesDemo
+/Users/movsumaghakishiyev/University/.netProgramming/DataTypesDemo/bin/Debug/net9.0/DataTypesDemo.deps.json
+/Users/movsumaghakishiyev/University/.netProgramming/DataTypesDemo/bin/Debug/net9.0/DataTypesDemo.runtimeconfig.json
+/Users/movsumaghakishiyev/University/.netProgramming/DataTypesDemo/bin/Debug/net9.0/DataTypesDemo.dll
+/Users/movsumaghakishiyev/University/.netProgramming/DataTypesDemo/bin/Debug/net9.0/DataTypesDemo.pdb
+/Users/movsumaghakishiyev/University/.netProgramming/DataTypesDemo/obj/Debug/net9.0/DataTypesDemo.dll
+/Users/movsumaghakishiyev/University/.netProgramming/DataTypesDemo/obj/Debug/net9.0/refint/DataTypesDemo.dll
+/Users/movsumaghakishiyev/University/.netProgramming/DataTypesDemo/obj/Debug/net9.0/DataTypesDemo.pdb
+/Users/movsumaghakishiyev/University/.netProgramming/DataTypesDemo/obj/Debug/net9.0/DataTypesDemo.genruntimeconfig.cache
+/Users/movsumaghakishiyev/University/.netProgramming/DataTypesDemo/obj/Debug/net9.0/ref/DataTypesDemo.dll

@@ -1,0 +1,14 @@
+/Users/movsumaghakishiyev/University/.netProgramming/HelloWorldApp/bin/Debug/net9.0/HelloWorldApp
+/Users/movsumaghakishiyev/University/.netProgramming/HelloWorldApp/bin/Debug/net9.0/HelloWorldApp.deps.json
+/Users/movsumaghakishiyev/University/.netProgramming/HelloWorldApp/bin/Debug/net9.0/HelloWorldApp.runtimeconfig.json
+/Users/movsumaghakishiyev/University/.netProgramming/HelloWorldApp/bin/Debug/net9.0/HelloWorldApp.dll
+/Users/movsumaghakishiyev/University/.netProgramming/HelloWorldApp/bin/Debug/net9.0/HelloWorldApp.pdb
+/Users/movsumaghakishiyev/University/.netProgramming/HelloWorldApp/obj/Debug/net9.0/HelloWorldApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/movsumaghakishiyev/University/.netProgramming/HelloWorldApp/obj/Debug/net9.0/HelloWorldApp.AssemblyInfoInputs.cache
+/Users/movsumaghakishiyev/University/.netProgramming/HelloWorldApp/obj/Debug/net9.0/HelloWorldApp.AssemblyInfo.cs
+/Users/movsumaghakishiyev/University/.netProgramming/HelloWorldApp/obj/Debug/net9.0/HelloWorldApp.csproj.CoreCompileInputs.cache
+/Users/movsumaghakishiyev/University/.netProgramming/HelloWorldApp/obj/Debug/net9.0/HelloWorldApp.dll
+/Users/movsumaghakishiyev/University/.netProgramming/HelloWorldApp/obj/Debug/net9.0/refint/HelloWorldApp.dll
+/Users/movsumaghakishiyev/University/.netProgramming/HelloWorldApp/obj/Debug/net9.0/HelloWorldApp.pdb
+/Users/movsumaghakishiyev/University/.netProgramming/HelloWorldApp/obj/Debug/net9.0/HelloWorldApp.genruntimeconfig.cache
+/Users/movsumaghakishiyev/University/.netProgramming/HelloWorldApp/obj/Debug/net9.0/ref/HelloWorldApp.dll
