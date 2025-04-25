@@ -1,0 +1,15 @@
+/Users/movsumaghakishiyev/University/dotnetProgramming/lab2-ui/Task2_HttpJson/bin/Debug/net9.0/Task2_HttpJson
+/Users/movsumaghakishiyev/University/dotnetProgramming/lab2-ui/Task2_HttpJson/bin/Debug/net9.0/Task2_HttpJson.deps.json
+/Users/movsumaghakishiyev/University/dotnetProgramming/lab2-ui/Task2_HttpJson/bin/Debug/net9.0/Task2_HttpJson.runtimeconfig.json
+/Users/movsumaghakishiyev/University/dotnetProgramming/lab2-ui/Task2_HttpJson/bin/Debug/net9.0/Task2_HttpJson.dll
+/Users/movsumaghakishiyev/University/dotnetProgramming/lab2-ui/Task2_HttpJson/bin/Debug/net9.0/Task2_HttpJson.pdb
+/Users/movsumaghakishiyev/University/dotnetProgramming/lab2-ui/Task2_HttpJson/obj/Debug/net9.0/Task2_HttpJson.GeneratedMSBuildEditorConfig.editorconfig
+/Users/movsumaghakishiyev/University/dotnetProgramming/lab2-ui/Task2_HttpJson/obj/Debug/net9.0/Task2_HttpJson.AssemblyInfoInputs.cache
+/Users/movsumaghakishiyev/University/dotnetProgramming/lab2-ui/Task2_HttpJson/obj/Debug/net9.0/Task2_HttpJson.AssemblyInfo.cs
+/Users/movsumaghakishiyev/University/dotnetProgramming/lab2-ui/Task2_HttpJson/obj/Debug/net9.0/Task2_HttpJson.csproj.CoreCompileInputs.cache
+/Users/movsumaghakishiyev/University/dotnetProgramming/lab2-ui/Task2_HttpJson/obj/Debug/net9.0/Task2_HttpJson.sourcelink.json
+/Users/movsumaghakishiyev/University/dotnetProgramming/lab2-ui/Task2_HttpJson/obj/Debug/net9.0/Task2_HttpJson.dll
+/Users/movsumaghakishiyev/University/dotnetProgramming/lab2-ui/Task2_HttpJson/obj/Debug/net9.0/refint/Task2_HttpJson.dll
+/Users/movsumaghakishiyev/University/dotnetProgramming/lab2-ui/Task2_HttpJson/obj/Debug/net9.0/Task2_HttpJson.pdb
+/Users/movsumaghakishiyev/University/dotnetProgramming/lab2-ui/Task2_HttpJson/obj/Debug/net9.0/Task2_HttpJson.genruntimeconfig.cache
+/Users/movsumaghakishiyev/University/dotnetProgramming/lab2-ui/Task2_HttpJson/obj/Debug/net9.0/ref/Task2_HttpJson.dll

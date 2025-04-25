@@ -1,0 +1,25 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        x:Class="Task5_UIContainers.MainWindow"
+        Title="Task5: Visual Containers"
+        Width="500" Height="400">
+  <StackPanel Margin="20" Spacing="20">
+    <Border BorderBrush="Gray" BorderThickness="1" CornerRadius="4" Padding="10">
+      <StackPanel Spacing="10">
+        <TextBlock Text="User Input" FontWeight="Bold" Margin="0,0,0,5"/>
+        <TextBox x:Name="textBoxInput" Watermark="Enter some text" />
+        <Button x:Name="buttonDisplay" Content="Show" Click="buttonDisplay_Click" />
+        <TextBlock x:Name="labelOutput" Text="Output will appear here" />
+      </StackPanel>
+    </Border>
+    
+    <Border BorderBrush="Gray" BorderThickness="1" CornerRadius="4" Padding="10">
+      <StackPanel Spacing="10">
+        <TextBlock Text="Character Count" FontWeight="Bold" Margin="0,0,0,5"/>
+        <TextBox x:Name="textBoxChar" Watermark="Type text here..." />
+        <Button x:Name="buttonCount" Content="Count Characters" Click="buttonCount_Click" />
+        <TextBlock x:Name="labelCharCount" Text="Character count will appear here" />
+      </StackPanel>
+    </Border>
+  </StackPanel>
+</Window>

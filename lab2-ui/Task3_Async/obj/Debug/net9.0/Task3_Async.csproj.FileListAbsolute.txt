@@ -1,0 +1,15 @@
+/Users/movsumaghakishiyev/University/dotnetProgramming/lab2-ui/Task3_Async/bin/Debug/net9.0/Task3_Async
+/Users/movsumaghakishiyev/University/dotnetProgramming/lab2-ui/Task3_Async/bin/Debug/net9.0/Task3_Async.deps.json
+/Users/movsumaghakishiyev/University/dotnetProgramming/lab2-ui/Task3_Async/bin/Debug/net9.0/Task3_Async.runtimeconfig.json
+/Users/movsumaghakishiyev/University/dotnetProgramming/lab2-ui/Task3_Async/bin/Debug/net9.0/Task3_Async.dll
+/Users/movsumaghakishiyev/University/dotnetProgramming/lab2-ui/Task3_Async/bin/Debug/net9.0/Task3_Async.pdb
+/Users/movsumaghakishiyev/University/dotnetProgramming/lab2-ui/Task3_Async/obj/Debug/net9.0/Task3_Async.GeneratedMSBuildEditorConfig.editorconfig
+/Users/movsumaghakishiyev/University/dotnetProgramming/lab2-ui/Task3_Async/obj/Debug/net9.0/Task3_Async.AssemblyInfoInputs.cache
+/Users/movsumaghakishiyev/University/dotnetProgramming/lab2-ui/Task3_Async/obj/Debug/net9.0/Task3_Async.AssemblyInfo.cs
+/Users/movsumaghakishiyev/University/dotnetProgramming/lab2-ui/Task3_Async/obj/Debug/net9.0/Task3_Async.csproj.CoreCompileInputs.cache
+/Users/movsumaghakishiyev/University/dotnetProgramming/lab2-ui/Task3_Async/obj/Debug/net9.0/Task3_Async.sourcelink.json
+/Users/movsumaghakishiyev/University/dotnetProgramming/lab2-ui/Task3_Async/obj/Debug/net9.0/Task3_Async.dll
+/Users/movsumaghakishiyev/University/dotnetProgramming/lab2-ui/Task3_Async/obj/Debug/net9.0/refint/Task3_Async.dll
+/Users/movsumaghakishiyev/University/dotnetProgramming/lab2-ui/Task3_Async/obj/Debug/net9.0/Task3_Async.pdb
+/Users/movsumaghakishiyev/University/dotnetProgramming/lab2-ui/Task3_Async/obj/Debug/net9.0/Task3_Async.genruntimeconfig.cache
+/Users/movsumaghakishiyev/University/dotnetProgramming/lab2-ui/Task3_Async/obj/Debug/net9.0/ref/Task3_Async.dll

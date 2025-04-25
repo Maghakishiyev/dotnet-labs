@@ -1,0 +1,11 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        x:Class="Task4_VisualApp.MainWindow"
+        Title="Task4 Visual App"
+        Width="400" Height="200">
+  <StackPanel Margin="20" Spacing="10">
+    <TextBox Name="textBoxName" Watermark="Enter your name" />
+    <Button Name="buttonGreet" Content="Greet" Click="buttonGreet_Click"/>
+    <TextBlock Name="labelGreeting" Text="Greeting will appear here" />
+  </StackPanel>
+</Window>

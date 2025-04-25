@@ -1,0 +1,15 @@
+/Users/movsumaghakishiyev/University/dotnetProgramming/lab2-ui/Task1_GenericCollections/bin/Debug/net9.0/Task1_GenericCollections
+/Users/movsumaghakishiyev/University/dotnetProgramming/lab2-ui/Task1_GenericCollections/bin/Debug/net9.0/Task1_GenericCollections.deps.json
+/Users/movsumaghakishiyev/University/dotnetProgramming/lab2-ui/Task1_GenericCollections/bin/Debug/net9.0/Task1_GenericCollections.runtimeconfig.json
+/Users/movsumaghakishiyev/University/dotnetProgramming/lab2-ui/Task1_GenericCollections/bin/Debug/net9.0/Task1_GenericCollections.dll
+/Users/movsumaghakishiyev/University/dotnetProgramming/lab2-ui/Task1_GenericCollections/bin/Debug/net9.0/Task1_GenericCollections.pdb
+/Users/movsumaghakishiyev/University/dotnetProgramming/lab2-ui/Task1_GenericCollections/obj/Debug/net9.0/Task1_GenericCollections.GeneratedMSBuildEditorConfig.editorconfig
+/Users/movsumaghakishiyev/University/dotnetProgramming/lab2-ui/Task1_GenericCollections/obj/Debug/net9.0/Task1_GenericCollections.AssemblyInfoInputs.cache
+/Users/movsumaghakishiyev/University/dotnetProgramming/lab2-ui/Task1_GenericCollections/obj/Debug/net9.0/Task1_GenericCollections.AssemblyInfo.cs
+/Users/movsumaghakishiyev/University/dotnetProgramming/lab2-ui/Task1_GenericCollections/obj/Debug/net9.0/Task1_GenericCollections.csproj.CoreCompileInputs.cache
+/Users/movsumaghakishiyev/University/dotnetProgramming/lab2-ui/Task1_GenericCollections/obj/Debug/net9.0/Task1_GenericCollections.sourcelink.json
+/Users/movsumaghakishiyev/University/dotnetProgramming/lab2-ui/Task1_GenericCollections/obj/Debug/net9.0/Task1_GenericCollections.dll
+/Users/movsumaghakishiyev/University/dotnetProgramming/lab2-ui/Task1_GenericCollections/obj/Debug/net9.0/refint/Task1_GenericCollections.dll
+/Users/movsumaghakishiyev/University/dotnetProgramming/lab2-ui/Task1_GenericCollections/obj/Debug/net9.0/Task1_GenericCollections.pdb
+/Users/movsumaghakishiyev/University/dotnetProgramming/lab2-ui/Task1_GenericCollections/obj/Debug/net9.0/Task1_GenericCollections.genruntimeconfig.cache
+/Users/movsumaghakishiyev/University/dotnetProgramming/lab2-ui/Task1_GenericCollections/obj/Debug/net9.0/ref/Task1_GenericCollections.dll
