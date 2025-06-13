@@ -1,0 +1,9 @@
+@model List<Task2_DataDrivenApp.Models.Student>
+
+<h2>Student List</h2>
+<ul>
+@foreach (var student in Model)
+{
+    <li>@student.Name (ID: @student.Id, Grade: @student.Grade)</li>
+}
+</ul>

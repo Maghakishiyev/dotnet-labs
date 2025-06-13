@@ -1,0 +1,14 @@
+@{
+    ViewData["Title"] = "Set Favorite Color";
+}
+
+<h2>Set Your Favorite Color</h2>
+
+<form method="post" asp-action="SetColor">
+    <div class="form-group mb-3">
+        <label for="favoriteColor">Favorite Color:</label>
+        <input type="text" class="form-control" id="favoriteColor" name="favoriteColor" placeholder="Enter your favorite color (e.g., Blue, Red, Green)" />
+    </div>
+    
+    <button type="submit" class="btn btn-primary">Save Color</button>
+</form>

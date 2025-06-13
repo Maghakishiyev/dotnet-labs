@@ -1,0 +1,6 @@
+@{
+    ViewData["Title"] = "Favorite Color";
+}
+
+<h2>Your Favorite Color</h2>
+<p>Your favorite color is: <strong style="color: @ViewBag.Color?.ToLower()">@ViewBag.Color</strong></p>

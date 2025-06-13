@@ -1,0 +1,19 @@
+@{
+    ViewData["Title"] = "Set User Data";
+}
+
+<h2>Set User Data</h2>
+
+<form method="post" asp-action="SetData">
+    <div class="form-group mb-3">
+        <label for="userName">User Name:</label>
+        <input type="text" class="form-control" id="userName" name="userName" placeholder="Enter your name" />
+    </div>
+    
+    <div class="form-group mb-3">
+        <label for="greeting">Greeting Message:</label>
+        <input type="text" class="form-control" id="greeting" name="greeting" placeholder="Enter a greeting message" />
+    </div>
+    
+    <button type="submit" class="btn btn-primary">Save Data</button>
+</form>

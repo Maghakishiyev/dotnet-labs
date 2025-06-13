@@ -1,0 +1,9 @@
+@model List<Task3_MVC.Models.Student>
+
+<h2>Student List (Sorted by ID)</h2>
+<ul>
+@foreach (var student in Model)
+{
+    <li>@student.Name (ID: @student.Id, Grade: @student.Grade)</li>
+}
+</ul>
